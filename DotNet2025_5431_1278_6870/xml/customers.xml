@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArryOfCustomer>
+	<Customer>
+		<Id>1</Id>
+		<Name>יוסי כהן</Name>
+		<Address>תל אביב</Address>
+		<PhoneNumber>054-1234567</PhoneNumber>
+	</Customer>
+	<Customer>
+		<Id>2</Id>
+		<Name>מיכל לוי</Name>
+		<Address>חיפה</Address>
+		<PhoneNumber>054-7654321</PhoneNumber>
+	</Customer>
+	<Customer>
+		<Id>3</Id>
+		<Name>דוד ישראלי</Name>
+		<Address>ירושלים</Address>
+		<PhoneNumber>054-1112233</PhoneNumber>
+	</Customer>
+</ArryOfCustomer>
+

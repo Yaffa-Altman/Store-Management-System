@@ -1,0 +1,11 @@
+Z:\B\אלטמן יפה\C#\myProject\DotNet2025_5431_1278_6870\bin\Tools.deps.json
+Z:\B\אלטמן יפה\C#\myProject\DotNet2025_5431_1278_6870\bin\Tools.dll
+Z:\B\אלטמן יפה\C#\myProject\DotNet2025_5431_1278_6870\bin\Tools.pdb
+Z:\B\אלטמן יפה\C#\myProject\DotNet2025_5431_1278_6870\Tools\obj\Debug\Tools.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\אלטמן יפה\C#\myProject\DotNet2025_5431_1278_6870\Tools\obj\Debug\Tools.AssemblyInfoInputs.cache
+Z:\B\אלטמן יפה\C#\myProject\DotNet2025_5431_1278_6870\Tools\obj\Debug\Tools.AssemblyInfo.cs
+Z:\B\אלטמן יפה\C#\myProject\DotNet2025_5431_1278_6870\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+Z:\B\אלטמן יפה\C#\myProject\DotNet2025_5431_1278_6870\Tools\obj\Debug\Tools.dll
+Z:\B\אלטמן יפה\C#\myProject\DotNet2025_5431_1278_6870\Tools\obj\Debug\refint\Tools.dll
+Z:\B\אלטמן יפה\C#\myProject\DotNet2025_5431_1278_6870\Tools\obj\Debug\Tools.pdb
+Z:\B\אלטמן יפה\C#\myProject\DotNet2025_5431_1278_6870\Tools\obj\Debug\ref\Tools.dll

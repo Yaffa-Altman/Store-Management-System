@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+	  <BaseOutputPath>$(solutionDir)\bin\</BaseOutputPath>
+	  <OutputPath>$(solutionDir)\bin\</OutputPath>
+	  <AppendTargetFrameWorkToOutputPath>false</AppendTargetFrameWorkToOutputPath>
+	  <AppendRuntimeIdentifierToOutputPath>false</AppendRuntimeIdentifierToOutputPath>
+	  <UseCommonOutputDirectory>true</UseCommonOutputDirectory>
+	  <RootNamespace>Dal</RootNamespace>
+	  <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DalFacade\DalFacade.csproj" />
+    <ProjectReference Include="..\DalXml\DalXml.csproj" />
+    <ProjectReference Include="..\Tools\Tools.csproj" />
+  </ItemGroup>
+
+</Project>

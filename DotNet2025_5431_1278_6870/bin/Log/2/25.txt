@@ -1,0 +1,6 @@
+25/02/2025 20:20:32	DalTest.Program.Main:	Start Initialize
+25/02/2025 20:20:33	DalTest.Program.Main:	Class DalList is not a singleton or wrong property name for Instance
+25/02/2025 20:20:46	DalTest.Program.Main:	Start Initialize
+25/02/2025 20:20:46	DalTest.Program.Main:	Class DalList is not a singleton or wrong property name for Instance
+25/02/2025 20:20:55	DalTest.Program.Main:	Start Initialize
+25/02/2025 20:20:55	DalTest.Program.Main:	Class DalList is not a singleton or wrong property name for Instance
