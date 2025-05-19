@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "Z:\\B\\אלטמן יפה\\C#\\myProject\\DotNet2025_5431_1278_6870\\DalXml\\DalXml.csproj": {}
+    "Z:\\B\\אלטמן יפה\\C#\\Store-Management-System\\DotNet2025_5431_1278_6870\\DalXml\\DalXml.csproj": {}
   },
   "projects": {
-    "Z:\\B\\אלטמן יפה\\C#\\myProject\\DotNet2025_5431_1278_6870\\DalFacade\\DalFacade.csproj": {
+    "Z:\\B\\אלטמן יפה\\C#\\Store-Management-System\\DotNet2025_5431_1278_6870\\DalFacade\\DalFacade.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Z:\\B\\אלטמן יפה\\C#\\myProject\\DotNet2025_5431_1278_6870\\DalFacade\\DalFacade.csproj",
+        "projectUniqueName": "Z:\\B\\אלטמן יפה\\C#\\Store-Management-System\\DotNet2025_5431_1278_6870\\DalFacade\\DalFacade.csproj",
         "projectName": "DalFacade",
-        "projectPath": "Z:\\B\\אלטמן יפה\\C#\\myProject\\DotNet2025_5431_1278_6870\\DalFacade\\DalFacade.csproj",
+        "projectPath": "Z:\\B\\אלטמן יפה\\C#\\Store-Management-System\\DotNet2025_5431_1278_6870\\DalFacade\\DalFacade.csproj",
         "packagesPath": "C:\\Users\\huser\\.nuget\\packages\\",
-        "outputPath": "Z:\\B\\אלטמן יפה\\C#\\myProject\\DotNet2025_5431_1278_6870\\DalFacade\\obj\\",
+        "outputPath": "Z:\\B\\אלטמן יפה\\C#\\Store-Management-System\\DotNet2025_5431_1278_6870\\DalFacade\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -70,14 +70,14 @@
         }
       }
     },
-    "Z:\\B\\אלטמן יפה\\C#\\myProject\\DotNet2025_5431_1278_6870\\DalXml\\DalXml.csproj": {
+    "Z:\\B\\אלטמן יפה\\C#\\Store-Management-System\\DotNet2025_5431_1278_6870\\DalXml\\DalXml.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Z:\\B\\אלטמן יפה\\C#\\myProject\\DotNet2025_5431_1278_6870\\DalXml\\DalXml.csproj",
+        "projectUniqueName": "Z:\\B\\אלטמן יפה\\C#\\Store-Management-System\\DotNet2025_5431_1278_6870\\DalXml\\DalXml.csproj",
         "projectName": "DalXml",
-        "projectPath": "Z:\\B\\אלטמן יפה\\C#\\myProject\\DotNet2025_5431_1278_6870\\DalXml\\DalXml.csproj",
+        "projectPath": "Z:\\B\\אלטמן יפה\\C#\\Store-Management-System\\DotNet2025_5431_1278_6870\\DalXml\\DalXml.csproj",
         "packagesPath": "C:\\Users\\huser\\.nuget\\packages\\",
-        "outputPath": "Z:\\B\\אלטמן יפה\\C#\\myProject\\DotNet2025_5431_1278_6870\\DalXml\\obj\\",
+        "outputPath": "Z:\\B\\אלטמן יפה\\C#\\Store-Management-System\\DotNet2025_5431_1278_6870\\DalXml\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -99,11 +99,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "Z:\\B\\אלטמן יפה\\C#\\myProject\\DotNet2025_5431_1278_6870\\DalFacade\\DalFacade.csproj": {
-                "projectPath": "Z:\\B\\אלטמן יפה\\C#\\myProject\\DotNet2025_5431_1278_6870\\DalFacade\\DalFacade.csproj"
+              "Z:\\B\\אלטמן יפה\\C#\\Store-Management-System\\DotNet2025_5431_1278_6870\\DalFacade\\DalFacade.csproj": {
+                "projectPath": "Z:\\B\\אלטמן יפה\\C#\\Store-Management-System\\DotNet2025_5431_1278_6870\\DalFacade\\DalFacade.csproj"
               },
-              "Z:\\B\\אלטמן יפה\\C#\\myProject\\DotNet2025_5431_1278_6870\\Tools\\Tools.csproj": {
-                "projectPath": "Z:\\B\\אלטמן יפה\\C#\\myProject\\DotNet2025_5431_1278_6870\\Tools\\Tools.csproj"
+              "Z:\\B\\אלטמן יפה\\C#\\Store-Management-System\\DotNet2025_5431_1278_6870\\Tools\\Tools.csproj": {
+                "projectPath": "Z:\\B\\אלטמן יפה\\C#\\Store-Management-System\\DotNet2025_5431_1278_6870\\Tools\\Tools.csproj"
               }
             }
           }
@@ -143,14 +143,14 @@
         }
       }
     },
-    "Z:\\B\\אלטמן יפה\\C#\\myProject\\DotNet2025_5431_1278_6870\\Tools\\Tools.csproj": {
+    "Z:\\B\\אלטמן יפה\\C#\\Store-Management-System\\DotNet2025_5431_1278_6870\\Tools\\Tools.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Z:\\B\\אלטמן יפה\\C#\\myProject\\DotNet2025_5431_1278_6870\\Tools\\Tools.csproj",
+        "projectUniqueName": "Z:\\B\\אלטמן יפה\\C#\\Store-Management-System\\DotNet2025_5431_1278_6870\\Tools\\Tools.csproj",
         "projectName": "Tools",
-        "projectPath": "Z:\\B\\אלטמן יפה\\C#\\myProject\\DotNet2025_5431_1278_6870\\Tools\\Tools.csproj",
+        "projectPath": "Z:\\B\\אלטמן יפה\\C#\\Store-Management-System\\DotNet2025_5431_1278_6870\\Tools\\Tools.csproj",
         "packagesPath": "C:\\Users\\huser\\.nuget\\packages\\",
-        "outputPath": "Z:\\B\\אלטמן יפה\\C#\\myProject\\DotNet2025_5431_1278_6870\\Tools\\obj\\",
+        "outputPath": "Z:\\B\\אלטמן יפה\\C#\\Store-Management-System\\DotNet2025_5431_1278_6870\\Tools\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

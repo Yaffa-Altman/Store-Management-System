@@ -7,8 +7,10 @@ using DalApi;
 
 namespace Dal
 {
-    internal sealed class DalXml : IDal
+    public class DalXml : IDal
     {
+        public static readonly DalXml instance = new DalXml();
+        public static DalXml Instance { get { return instance; } }
         public IProduct Product => new ProductImplementation();
 
         public ICustomer Customer => new CustomerImplementation();

@@ -1,0 +1,27 @@
+19/05/2025 15:33:35	Dal.CustomerImplementation.Read:	Find Customer
+19/05/2025 15:34:57	Dal.CustomerImplementation.Create:	Start Create Customer
+19/05/2025 15:36:02	Dal.CustomerImplementation.Create:	Start Create Customer
+19/05/2025 15:37:38	Dal.CustomerImplementation.Read:	Find Customer
+19/05/2025 15:38:08	Dal.ProductImplementation.Read:	start read Product
+19/05/2025 15:38:08	Dal.SaleImplementation.ReadAll:	ReadAll with filter Sale
+19/05/2025 19:42:55	Dal.CustomerImplementation.Read:	Find Customer
+19/05/2025 19:43:25	Dal.ProductImplementation.Read:	start read Product
+19/05/2025 19:43:25	Dal.SaleImplementation.ReadAll:	ReadAll with filter Sale
+19/05/2025 19:43:49	Dal.ProductImplementation.Read:	start read Product
+19/05/2025 19:43:49	Dal.SaleImplementation.ReadAll:	ReadAll with filter Sale
+19/05/2025 19:44:51	Dal.CustomerImplementation.Read:	Find Customer
+19/05/2025 19:44:57	Dal.ProductImplementation.Read:	start read Product
+19/05/2025 19:44:57	Dal.SaleImplementation.ReadAll:	ReadAll with filter Sale
+19/05/2025 19:46:23	Dal.CustomerImplementation.Read:	Find Customer
+19/05/2025 19:46:29	Dal.ProductImplementation.Read:	start read Product
+19/05/2025 19:46:29	Dal.SaleImplementation.ReadAll:	ReadAll with filter Sale
+19/05/2025 19:46:43	Dal.ProductImplementation.Read:	start read Product
+19/05/2025 19:46:43	Dal.SaleImplementation.ReadAll:	ReadAll with filter Sale
+19/05/2025 19:47:26	Dal.CustomerImplementation.Read:	Find Customer
+19/05/2025 19:47:33	Dal.ProductImplementation.Read:	start read Product
+19/05/2025 19:47:33	Dal.SaleImplementation.ReadAll:	ReadAll with filter Sale
+19/05/2025 19:47:48	Dal.ProductImplementation.Read:	start read Product
+19/05/2025 19:47:48	Dal.SaleImplementation.ReadAll:	ReadAll with filter Sale
+19/05/2025 19:48:51	Dal.CustomerImplementation.Read:	Find Customer
+19/05/2025 19:48:56	Dal.ProductImplementation.Read:	start read Product
+19/05/2025 19:48:56	Dal.SaleImplementation.ReadAll:	ReadAll with filter Sale

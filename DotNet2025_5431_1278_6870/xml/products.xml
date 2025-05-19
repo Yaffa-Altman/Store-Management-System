@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ArryOfProduct>
+<ArrayOfProduct>
 	<Product>
 		<ProductCode>2001</ProductCode>
 		<ProductName>ג'לי פירות</ProductName>
@@ -70,5 +70,5 @@
 		<Quantity>70</Quantity>
 		<Category>CRACKS</Category>
 	</Product>
-</ArryOfProduct>
+</ArrayOfProduct>
 

@@ -18,7 +18,7 @@ namespace DalApi
                 Type type = Type.GetType($"Dal.{dal}, {dal}")
                 ??  throw new DalConfigException($"Class Dal.{dal} was not found in {dal}.dll");
 
-                return type.GetProperty("getInstance", BindingFlags.Public | BindingFlags.Static)?.GetValue(null) as IDal
+                return type.GetProperty("Instance", BindingFlags.Public | BindingFlags.Static)?.GetValue(null) as IDal
                     ?? throw new DalConfigException($"Class {dal} is not a singleton or wrong property name for Instance");
             }
         }

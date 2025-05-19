@@ -24,7 +24,7 @@ internal class Program
         Console.WriteLine("Please, insert your ID");
         int id;
         int.TryParse(Console.ReadLine(), out id);
-        Customer customer = s_bl.customer.Read(id);
+        Customer? customer = s_bl.customer.Read(id);
         Console.WriteLine("Enter the customer type!");
         Console.WriteLine("To manager press 1\r\nTo the worker press 2\r\nFor the customer press 3");
         int n;
@@ -46,7 +46,13 @@ internal class Program
                 }
                 Console.WriteLine("Enter quantity of products to order");
                 int.TryParse(Console.ReadLine(), out countToOrder);
-                Console.WriteLine(s_bl.order.AddProductToOrder(order, productId, countToOrder));//Print the sale list of this product
+                Console.WriteLine("Your Sales: ");
+                foreach (var item in s_bl.order.AddProductToOrder(order, productId, countToOrder))//Print the sale list of this product
+                {
+                    Console.WriteLine(item);
+                }
+                
+                Console.WriteLine();
                 Console.WriteLine("The total price is: " + order.TotalPrice);
             }
             global::System.Console.WriteLine("To create new order press 1, to end press 0.");

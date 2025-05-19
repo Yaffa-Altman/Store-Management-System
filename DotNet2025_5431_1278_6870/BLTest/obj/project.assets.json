@@ -126,11 +126,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "Z:\\B\\אלטמן יפה\\C#\\myProject\\DotNet2025_5431_1278_6870\\BLTest\\BlTest.csproj",
+      "projectUniqueName": "Z:\\B\\אלטמן יפה\\C#\\Store-Management-System\\DotNet2025_5431_1278_6870\\BLTest\\BlTest.csproj",
       "projectName": "BlTest",
-      "projectPath": "Z:\\B\\אלטמן יפה\\C#\\myProject\\DotNet2025_5431_1278_6870\\BLTest\\BlTest.csproj",
+      "projectPath": "Z:\\B\\אלטמן יפה\\C#\\Store-Management-System\\DotNet2025_5431_1278_6870\\BLTest\\BlTest.csproj",
       "packagesPath": "C:\\Users\\huser\\.nuget\\packages\\",
-      "outputPath": "Z:\\B\\אלטמן יפה\\C#\\myProject\\DotNet2025_5431_1278_6870\\BLTest\\obj\\",
+      "outputPath": "Z:\\B\\אלטמן יפה\\C#\\Store-Management-System\\DotNet2025_5431_1278_6870\\BLTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -152,11 +152,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "Z:\\B\\אלטמן יפה\\C#\\myProject\\DotNet2025_5431_1278_6870\\BL\\BL.csproj": {
-              "projectPath": "Z:\\B\\אלטמן יפה\\C#\\myProject\\DotNet2025_5431_1278_6870\\BL\\BL.csproj"
+            "Z:\\B\\אלטמן יפה\\C#\\Store-Management-System\\DotNet2025_5431_1278_6870\\BL\\BL.csproj": {
+              "projectPath": "Z:\\B\\אלטמן יפה\\C#\\Store-Management-System\\DotNet2025_5431_1278_6870\\BL\\BL.csproj"
             },
-            "Z:\\B\\אלטמן יפה\\C#\\myProject\\DotNet2025_5431_1278_6870\\DalTest\\DalTest.csproj": {
-              "projectPath": "Z:\\B\\אלטמן יפה\\C#\\myProject\\DotNet2025_5431_1278_6870\\DalTest\\DalTest.csproj"
+            "Z:\\B\\אלטמן יפה\\C#\\Store-Management-System\\DotNet2025_5431_1278_6870\\DalTest\\DalTest.csproj": {
+              "projectPath": "Z:\\B\\אלטמן יפה\\C#\\Store-Management-System\\DotNet2025_5431_1278_6870\\DalTest\\DalTest.csproj"
             }
           }
         }

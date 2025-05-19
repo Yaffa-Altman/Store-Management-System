@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<ArryOfSale>
+<ArrayOfSale>
 	<Sale>
 		<SaleCode>1</SaleCode>
 		<ProductId>2001</ProductId>
@@ -70,4 +70,4 @@
 		<SalePrice>29.94</SalePrice>
 		<IsClub>false</IsClub>
 	</Sale>
-</ArryOfSale>
+</ArrayOfSale>

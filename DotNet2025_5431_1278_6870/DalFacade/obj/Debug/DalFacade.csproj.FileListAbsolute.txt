@@ -55,3 +55,15 @@ Z:\B\אלטמן יפה\C#\myProject\DotNet2025_5431_1278_6870\DalFacade\obj\Debu
 Z:\B\אלטמן יפה\C#\myProject\DotNet2025_5431_1278_6870\DalFacade\obj\Debug\refint\DalFacade.dll
 Z:\B\אלטמן יפה\C#\myProject\DotNet2025_5431_1278_6870\DalFacade\obj\Debug\DalFacade.pdb
 Z:\B\אלטמן יפה\C#\myProject\DotNet2025_5431_1278_6870\DalFacade\obj\Debug\ref\DalFacade.dll
+Z:\B\אלטמן יפה\C#\Store-Management-System\DotNet2025_5431_1278_6870\bin\DalFacade.deps.json
+Z:\B\אלטמן יפה\C#\Store-Management-System\DotNet2025_5431_1278_6870\bin\DalFacade.dll
+Z:\B\אלטמן יפה\C#\Store-Management-System\DotNet2025_5431_1278_6870\bin\DalFacade.pdb
+Z:\B\אלטמן יפה\C#\Store-Management-System\DotNet2025_5431_1278_6870\DalFacade\obj\Debug\DalFacade.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\אלטמן יפה\C#\Store-Management-System\DotNet2025_5431_1278_6870\DalFacade\obj\Debug\DalFacade.AssemblyInfoInputs.cache
+Z:\B\אלטמן יפה\C#\Store-Management-System\DotNet2025_5431_1278_6870\DalFacade\obj\Debug\DalFacade.AssemblyInfo.cs
+Z:\B\אלטמן יפה\C#\Store-Management-System\DotNet2025_5431_1278_6870\DalFacade\obj\Debug\DalFacade.csproj.CoreCompileInputs.cache
+Z:\B\אלטמן יפה\C#\Store-Management-System\DotNet2025_5431_1278_6870\DalFacade\obj\Debug\DalFacade.sourcelink.json
+Z:\B\אלטמן יפה\C#\Store-Management-System\DotNet2025_5431_1278_6870\DalFacade\obj\Debug\DalFacade.dll
+Z:\B\אלטמן יפה\C#\Store-Management-System\DotNet2025_5431_1278_6870\DalFacade\obj\Debug\refint\DalFacade.dll
+Z:\B\אלטמן יפה\C#\Store-Management-System\DotNet2025_5431_1278_6870\DalFacade\obj\Debug\DalFacade.pdb
+Z:\B\אלטמן יפה\C#\Store-Management-System\DotNet2025_5431_1278_6870\DalFacade\obj\Debug\ref\DalFacade.dll

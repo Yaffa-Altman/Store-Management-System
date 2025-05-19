@@ -11,3 +11,17 @@ Z:\B\אלטמן יפה\C#\myProject\DotNet2025_5431_1278_6870\DalXml\obj\Debug\D
 Z:\B\אלטמן יפה\C#\myProject\DotNet2025_5431_1278_6870\DalXml\obj\Debug\refint\DalXml.dll
 Z:\B\אלטמן יפה\C#\myProject\DotNet2025_5431_1278_6870\DalXml\obj\Debug\DalXml.pdb
 Z:\B\אלטמן יפה\C#\myProject\DotNet2025_5431_1278_6870\DalXml\obj\Debug\ref\DalXml.dll
+Z:\B\אלטמן יפה\C#\Store-Management-System\DotNet2025_5431_1278_6870\bin\DalXml.deps.json
+Z:\B\אלטמן יפה\C#\Store-Management-System\DotNet2025_5431_1278_6870\bin\DalXml.dll
+Z:\B\אלטמן יפה\C#\Store-Management-System\DotNet2025_5431_1278_6870\bin\DalXml.pdb
+Z:\B\אלטמן יפה\C#\Store-Management-System\DotNet2025_5431_1278_6870\DalXml\obj\Debug\DalXml.csproj.AssemblyReference.cache
+Z:\B\אלטמן יפה\C#\Store-Management-System\DotNet2025_5431_1278_6870\DalXml\obj\Debug\DalXml.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\אלטמן יפה\C#\Store-Management-System\DotNet2025_5431_1278_6870\DalXml\obj\Debug\DalXml.AssemblyInfoInputs.cache
+Z:\B\אלטמן יפה\C#\Store-Management-System\DotNet2025_5431_1278_6870\DalXml\obj\Debug\DalXml.AssemblyInfo.cs
+Z:\B\אלטמן יפה\C#\Store-Management-System\DotNet2025_5431_1278_6870\DalXml\obj\Debug\DalXml.csproj.CoreCompileInputs.cache
+Z:\B\אלטמן יפה\C#\Store-Management-System\DotNet2025_5431_1278_6870\DalXml\obj\Debug\DalXml.sourcelink.json
+Z:\B\אלטמן יפה\C#\Store-Management-System\DotNet2025_5431_1278_6870\DalXml\obj\Debug\DalXml.csproj.Up2Date
+Z:\B\אלטמן יפה\C#\Store-Management-System\DotNet2025_5431_1278_6870\DalXml\obj\Debug\DalXml.dll
+Z:\B\אלטמן יפה\C#\Store-Management-System\DotNet2025_5431_1278_6870\DalXml\obj\Debug\refint\DalXml.dll
+Z:\B\אלטמן יפה\C#\Store-Management-System\DotNet2025_5431_1278_6870\DalXml\obj\Debug\DalXml.pdb
+Z:\B\אלטמן יפה\C#\Store-Management-System\DotNet2025_5431_1278_6870\DalXml\obj\Debug\ref\DalXml.dll
