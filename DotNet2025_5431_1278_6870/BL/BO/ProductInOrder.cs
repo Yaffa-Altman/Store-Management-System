@@ -22,7 +22,7 @@ namespace BO
             this.Price = price;
             this.Quantity = quantity;
             this.SaleInProduct = new List<SaleInProduct>();
-            this.TotalPrice = 0;
+            this.TotalPrice = price*quantity;
         }
 
     }

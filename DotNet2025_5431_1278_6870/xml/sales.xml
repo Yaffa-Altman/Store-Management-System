@@ -1,18 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ArrayOfSale>
 	<Sale>
-		<SaleCode>1</SaleCode>
-		<ProductId>2001</ProductId>
-		<QuantityForSale>3</QuantityForSale>
-		<SalePrice>28.99</SalePrice>
-		<IsClub>true</IsClub>
-	</Sale>
-	<Sale>
 		<SaleCode>2</SaleCode>
 		<ProductId>2002</ProductId>
 		<QuantityForSale>5</QuantityForSale>
 		<SalePrice>24.99</SalePrice>
 		<IsClub>false</IsClub>
+		<StartSale>2025-05-20T16:43:24.0069332+03:00</StartSale>
+		<EndSale>2025-06-01T16:43:24.0069425+03:00</EndSale>
 	</Sale>
 	<Sale>
 		<SaleCode>3</SaleCode>
@@ -20,6 +15,8 @@
 		<QuantityForSale>2</QuantityForSale>
 		<SalePrice>14.99</SalePrice>
 		<IsClub>true</IsClub>
+		<StartSale>2025-05-20T16:43:24.0069332+03:00</StartSale>
+		<EndSale>2025-06-01T16:43:24.0069425+03:00</EndSale>
 	</Sale>
 	<Sale>
 		<SaleCode>4</SaleCode>
@@ -27,6 +24,8 @@
 		<QuantityForSale>1</QuantityForSale>
 		<SalePrice>89.99</SalePrice>
 		<IsClub>false</IsClub>
+		<StartSale>2025-05-20T16:43:24.0069332+03:00</StartSale>
+		<EndSale>2025-06-01T16:43:24.0069425+03:00</EndSale>
 	</Sale>
 	<Sale>
 		<SaleCode>5</SaleCode>
@@ -34,6 +33,8 @@
 		<QuantityForSale>10</QuantityForSale>
 		<SalePrice>39.90</SalePrice>
 		<IsClub>true</IsClub>
+		<StartSale>2025-05-20T16:43:24.0069332+03:00</StartSale>
+		<EndSale>2025-06-01T16:43:24.0069425+03:00</EndSale>
 	</Sale>
 	<Sale>
 		<SaleCode>6</SaleCode>
@@ -41,6 +42,8 @@
 		<QuantityForSale>4</QuantityForSale>
 		<SalePrice>39.96</SalePrice>
 		<IsClub>false</IsClub>
+		<StartSale>2025-05-20T16:43:24.0069332+03:00</StartSale>
+		<EndSale>2025-06-01T16:43:24.0069425+03:00</EndSale>
 	</Sale>
 	<Sale>
 		<SaleCode>7</SaleCode>
@@ -48,6 +51,8 @@
 		<QuantityForSale>3</QuantityForSale>
 		<SalePrice>18.99</SalePrice>
 		<IsClub>true</IsClub>
+		<StartSale>2025-05-20T16:43:24.0069332+03:00</StartSale>
+		<EndSale>2025-06-01T16:43:24.0069425+03:00</EndSale>
 	</Sale>
 	<Sale>
 		<SaleCode>8</SaleCode>
@@ -55,6 +60,8 @@
 		<QuantityForSale>5</QuantityForSale>
 		<SalePrice>39.95</SalePrice>
 		<IsClub>false</IsClub>
+		<StartSale>2025-05-20T16:43:24.0069332+03:00</StartSale>
+		<EndSale>2025-06-01T16:43:24.0069425+03:00</EndSale>
 	</Sale>
 	<Sale>
 		<SaleCode>9</SaleCode>
@@ -62,6 +69,8 @@
 		<QuantityForSale>2</QuantityForSale>
 		<SalePrice>169.98</SalePrice>
 		<IsClub>true</IsClub>
+		<StartSale>2025-05-20T16:43:24.0069332+03:00</StartSale>
+		<EndSale>2025-06-01T16:43:24.0069425+03:00</EndSale>
 	</Sale>
 	<Sale>
 		<SaleCode>10</SaleCode>
@@ -69,5 +78,61 @@
 		<QuantityForSale>6</QuantityForSale>
 		<SalePrice>29.94</SalePrice>
 		<IsClub>false</IsClub>
+		<StartSale>2025-05-20T16:43:24.0069332+03:00</StartSale>
+		<EndSale>2025-06-01T16:43:24.0069425+03:00</EndSale>
+	</Sale>
+	<Sale>
+		<SaleCode>101</SaleCode>
+		<ProductId>100</ProductId>
+		<QuantityForSale>3</QuantityForSale>
+		<SalePrice>15</SalePrice>
+		<IsClub>false</IsClub>
+		<StartSale>2025-05-20T16:43:24.0069332+03:00</StartSale>
+		<EndSale>2025-06-01T16:43:24.0069425+03:00</EndSale>
+	</Sale>
+	<Sale>
+		<SaleCode>102</SaleCode>
+		<ProductId>105</ProductId>
+		<QuantityForSale>2</QuantityForSale>
+		<SalePrice>70</SalePrice>
+		<IsClub>true</IsClub>
+		<StartSale>2025-05-20T16:43:24.0250622+03:00</StartSale>
+		<EndSale>2025-06-01T16:43:24.0250653+03:00</EndSale>
+	</Sale>
+	<Sale>
+		<SaleCode>103</SaleCode>
+		<ProductId>104</ProductId>
+		<QuantityForSale>1</QuantityForSale>
+		<SalePrice>4</SalePrice>
+		<IsClub>true</IsClub>
+		<StartSale>2025-05-22T16:43:24.0503234+03:00</StartSale>
+		<EndSale>2025-06-01T16:43:24.0503274+03:00</EndSale>
+	</Sale>
+	<Sale>
+		<SaleCode>104</SaleCode>
+		<ProductId>106</ProductId>
+		<QuantityForSale>2</QuantityForSale>
+		<SalePrice>60</SalePrice>
+		<IsClub>false</IsClub>
+		<StartSale>2025-05-20T16:43:24.0658767+03:00</StartSale>
+		<EndSale>2025-06-03T16:43:24.06588+03:00</EndSale>
+	</Sale>
+	<Sale>
+		<SaleCode>105</SaleCode>
+		<ProductId>102</ProductId>
+		<QuantityForSale>2</QuantityForSale>
+		<SalePrice>15</SalePrice>
+		<IsClub>true</IsClub>
+		<StartSale>2025-05-20T16:43:24.0803109+03:00</StartSale>
+		<EndSale>2025-06-01T16:43:24.0803134+03:00</EndSale>
+	</Sale>
+	<Sale>
+		<SaleCode>106</SaleCode>
+		<ProductId>108</ProductId>
+		<QuantityForSale>3</QuantityForSale>
+		<SalePrice>10</SalePrice>
+		<IsClub>false</IsClub>
+		<StartSale>2025-05-20T16:43:24.095093+03:00</StartSale>
+		<EndSale>2025-06-01T16:43:24.0950954+03:00</EndSale>
 	</Sale>
 </ArrayOfSale>

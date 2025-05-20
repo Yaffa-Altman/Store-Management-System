@@ -1,22 +1,69 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ArrayOfCustomer>
-	<Customer>
-		<Id>1</Id>
-		<Name>יוסי כהן</Name>
-		<Address>תל אביב</Address>
-		<PhoneNumber>054-1234567</PhoneNumber>
-	</Customer>
-	<Customer>
-		<Id>2</Id>
-		<Name>מיכל לוי</Name>
-		<Address>חיפה</Address>
-		<PhoneNumber>054-7654321</PhoneNumber>
-	</Customer>
-	<Customer>
-		<Id>3</Id>
-		<Name>דוד ישראלי</Name>
-		<Address>ירושלים</Address>
-		<PhoneNumber>054-1112233</PhoneNumber>
-	</Customer>
+<ArrayOfCustomer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Customer>
+    <Id>1</Id>
+    <Name>יוסי כהן</Name>
+    <Address>תל אביב</Address>
+    <PhoneNumber>054-1234567</PhoneNumber>
+  </Customer>
+  <Customer>
+    <Id>2</Id>
+    <Name>מיכל לוי</Name>
+    <Address>חיפה</Address>
+    <PhoneNumber>054-7654321</PhoneNumber>
+  </Customer>
+  <Customer>
+    <Id>3</Id>
+    <Name>דוד ישראלי</Name>
+    <Address>ירושלים</Address>
+    <PhoneNumber>054-1112233</PhoneNumber>
+  </Customer>
+  <Customer>
+    <Id>1234</Id>
+    <Name>Ari</Name>
+    <Address>jerusalem</Address>
+    <PhoneNumber>0523784590</PhoneNumber>
+  </Customer>
+  <Customer>
+    <Id>1568</Id>
+    <Name>Shani</Name>
+    <Address>jerusalem</Address>
+    <PhoneNumber>0558972004</PhoneNumber>
+  </Customer>
+  <Customer>
+    <Id>9087</Id>
+    <Name>Bati</Name>
+    <Address>jerusalem</Address>
+    <PhoneNumber>0538756435</PhoneNumber>
+  </Customer>
+  <Customer>
+    <Id>7493</Id>
+    <Name>Dani</Name>
+    <Address>jerusalem</Address>
+    <PhoneNumber>0534107896</PhoneNumber>
+  </Customer>
+  <Customer>
+    <Id>8654</Id>
+    <Name>Avi</Name>
+    <Address>modiin ilit</Address>
+    <PhoneNumber>0534169998</PhoneNumber>
+  </Customer>
+  <Customer>
+    <Id>7894</Id>
+    <Name>Gadi</Name>
+    <Address>modiin ilit</Address>
+    <PhoneNumber>0534237898</PhoneNumber>
+  </Customer>
+  <Customer>
+    <Id>7564</Id>
+    <Name>Gili</Name>
+    <Address>modiin ilit</Address>
+    <PhoneNumber>0534109898</PhoneNumber>
+  </Customer>
+  <Customer>
+    <Id>1213</Id>
+    <Name>Adi</Name>
+    <Address>modiin ilit</Address>
+    <PhoneNumber>0534507698</PhoneNumber>
+  </Customer>
 </ArrayOfCustomer>
-

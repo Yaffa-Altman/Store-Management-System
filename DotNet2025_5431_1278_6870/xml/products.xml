@@ -1,74 +1,129 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ArrayOfProduct>
-	<Product>
-		<ProductCode>2001</ProductCode>
-		<ProductName>ג'לי פירות</ProductName>
-		<Price>10.99</Price>
-		<Quantity>100</Quantity>
-		<Category>JELLYS</Category>
-	</Product>
-	<Product>
-		<ProductCode>2002</ProductCode>
-		<ProductName>שוקולד חלב</ProductName>
-		<Price>5.49</Price>
-		<Quantity>200</Quantity>
-		<Category>CHOCOLATES</Category>
-	</Product>
-	<Product>
-		<ProductCode>2003</ProductCode>
-		<ProductName>חטיף צ'יפס</ProductName>
-		<Price>7.99</Price>
-		<Quantity>150</Quantity>
-		<Category>SNACKS</Category>
-	</Product>
-	<Product>
-		<ProductCode>2004</ProductCode>
-		<ProductName>וודקה</ProductName>
-		<Price>99.99</Price>
-		<Quantity>30</Quantity>
-		<Category>LIQUORS</Category>
-	</Product>
-	<Product>
-		<ProductCode>2005</ProductCode>
-		<ProductName>קר crackers</ProductName>
-		<Price>4.99</Price>
-		<Quantity>80</Quantity>
-		<Category>CRACKS</Category>
-	</Product>
-	<Product>
-		<ProductCode>2006</ProductCode>
-		<ProductName>ג'לי תות</ProductName>
-		<Price>11.99</Price>
-		<Quantity>90</Quantity>
-		<Category>JELLYS</Category>
-	</Product>
-	<Product>
-		<ProductCode>2007</ProductCode>
-		<ProductName>שוקולד מריר</ProductName>
-		<Price>6.99</Price>
-		<Quantity>120</Quantity>
-		<Category>CHOCOLATES</Category>
-	</Product>
-	<Product>
-		<ProductCode>2008</ProductCode>
-		<ProductName>חטיף אגוזים</ProductName>
-		<Price>8.49</Price>
-		<Quantity>110</Quantity>
-		<Category>SNACKS</Category>
-	</Product>
-	<Product>
-		<ProductCode>2009</ProductCode>
-		<ProductName>יין אדום</ProductName>
-		<Price>89.99</Price>
-		<Quantity>25</Quantity>
-		<Category>LIQUORS</Category>
-	</Product>
-	<Product>
-		<ProductCode>2010</ProductCode>
-		<ProductName>קר crackers מתוקים</ProductName>
-		<Price>5.49</Price>
-		<Quantity>70</Quantity>
-		<Category>CRACKS</Category>
-	</Product>
+<ArrayOfProduct xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Product>
+    <ProductCode>2005</ProductCode>
+    <ProductName>קר crackers</ProductName>
+    <Price>4.99</Price>
+    <Quantity>80</Quantity>
+    <Category>CRACKS</Category>
+  </Product>
+  <Product>
+    <ProductCode>2006</ProductCode>
+    <ProductName>ג'לי תות</ProductName>
+    <Price>11.99</Price>
+    <Quantity>90</Quantity>
+    <Category>JELLYS</Category>
+  </Product>
+  <Product>
+    <ProductCode>2007</ProductCode>
+    <ProductName>שוקולד מריר</ProductName>
+    <Price>6.99</Price>
+    <Quantity>120</Quantity>
+    <Category>CHOCOLATES</Category>
+  </Product>
+  <Product>
+    <ProductCode>2008</ProductCode>
+    <ProductName>חטיף אגוזים</ProductName>
+    <Price>8.49</Price>
+    <Quantity>110</Quantity>
+    <Category>SNACKS</Category>
+  </Product>
+  <Product>
+    <ProductCode>2009</ProductCode>
+    <ProductName>יין אדום</ProductName>
+    <Price>89.99</Price>
+    <Quantity>25</Quantity>
+    <Category>LIQUORS</Category>
+  </Product>
+  <Product>
+    <ProductCode>2010</ProductCode>
+    <ProductName>קר crackers מתוקים</ProductName>
+    <Price>5.49</Price>
+    <Quantity>70</Quantity>
+    <Category>CRACKS</Category>
+  </Product>
+  <Product>
+    <ProductCode>110</ProductCode>
+    <ProductName>ביסלי</ProductName>
+    <Price>5.9</Price>
+    <Quantity>500</Quantity>
+    <Category>SNACKS</Category>
+  </Product>
+  <Product>
+    <ProductCode>111</ProductCode>
+    <ProductName>צ'יפס</ProductName>
+    <Price>4.9</Price>
+    <Quantity>500</Quantity>
+    <Category>SNACKS</Category>
+  </Product>
+  <Product>
+    <ProductCode>112</ProductCode>
+    <ProductName>שוקולד שוויצרי</ProductName>
+    <Price>8.9</Price>
+    <Quantity>400</Quantity>
+    <Category>CHOCOLATES</Category>
+  </Product>
+  <Product>
+    <ProductCode>113</ProductCode>
+    <ProductName>נחשים</ProductName>
+    <Price>5.9</Price>
+    <Quantity>20</Quantity>
+    <Category>JELLYS</Category>
+  </Product>
+  <Product>
+    <ProductCode>114</ProductCode>
+    <ProductName>חמצוץ ממולא</ProductName>
+    <Price>4.9</Price>
+    <Quantity>20</Quantity>
+    <Category>JELLYS</Category>
+  </Product>
+  <Product>
+    <ProductCode>115</ProductCode>
+    <ProductName>ליקר שוקולד</ProductName>
+    <Price>42</Price>
+    <Quantity>15</Quantity>
+    <Category>LIQUORS</Category>
+  </Product>
+  <Product>
+    <ProductCode>116</ProductCode>
+    <ProductName>יין גן עדן</ProductName>
+    <Price>38</Price>
+    <Quantity>15</Quantity>
+    <Category>LIQUORS</Category>
+  </Product>
+  <Product>
+    <ProductCode>118</ProductCode>
+    <ProductName>במבה</ProductName>
+    <Price>3.9</Price>
+    <Quantity>500</Quantity>
+    <Category>SNACKS</Category>
+  </Product>
+  <Product>
+    <ProductCode>119</ProductCode>
+    <ProductName>שוקולד חלב</ProductName>
+    <Price>5.49</Price>
+    <Quantity>192</Quantity>
+    <Category>CHOCOLATES</Category>
+  </Product>
+  <Product>
+    <ProductCode>120</ProductCode>
+    <ProductName>חטיף צ'יפס</ProductName>
+    <Price>7.99</Price>
+    <Quantity>142</Quantity>
+    <Category>SNACKS</Category>
+  </Product>
+  <Product>
+    <ProductCode>121</ProductCode>
+    <ProductName>וודקה</ProductName>
+    <Price>99.99</Price>
+    <Quantity>23</Quantity>
+    <Category>LIQUORS</Category>
+  </Product>
+  <Product>
+    <ProductCode>122</ProductCode>
+    <ProductName>שחורים</ProductName>
+    <Price>2.9</Price>
+    <Quantity>24</Quantity>
+    <Category>CRACKS</Category>
+  </Product>
 </ArrayOfProduct>
-

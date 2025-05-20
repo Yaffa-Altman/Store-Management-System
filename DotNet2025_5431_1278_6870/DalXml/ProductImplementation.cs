@@ -13,7 +13,7 @@ namespace Dal
 {
     internal class ProductImplementation : IProduct
     {
-        public const string FILE_PATH = "../xml/Products.xml";
+        public const string FILE_PATH = "../xml/products.xml";
         public int Create(Product item)
         {
             try
@@ -24,6 +24,7 @@ namespace Dal
                 if (File.Exists(FILE_PATH))
                 {
                     products = Config.LoadFromXml<Product>(FILE_PATH);
+                    item =  item with { ProductCode = Config.NextProductCode };
                     bool Product = products.Any(c => c?.ProductCode == item.ProductCode);
 
                     if (Product)
@@ -66,7 +67,10 @@ namespace Dal
                         throw new DO.DalIdDosentExistException("Delete - ERROR: Product Id not exists");
                     }
                 }
-                throw new DalIdDosentExistException("this file doesnt exist!");
+                else
+                {
+                    throw new DalIdDosentExistException("this file doesnt exist!");
+                }
             }
             catch (Exception ex)
             {

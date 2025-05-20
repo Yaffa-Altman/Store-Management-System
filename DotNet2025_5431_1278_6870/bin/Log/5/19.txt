@@ -25,3 +25,6 @@
 19/05/2025 19:48:51	Dal.CustomerImplementation.Read:	Find Customer
 19/05/2025 19:48:56	Dal.ProductImplementation.Read:	start read Product
 19/05/2025 19:48:56	Dal.SaleImplementation.ReadAll:	ReadAll with filter Sale
+19/05/2025 20:58:12	Dal.CustomerImplementation.Create:	Start Create Customer
+19/05/2025 20:59:49	Dal.CustomerImplementation.Create:	Start Create Customer
+19/05/2025 21:35:43	Dal.CustomerImplementation.Create:	Start Create Customer

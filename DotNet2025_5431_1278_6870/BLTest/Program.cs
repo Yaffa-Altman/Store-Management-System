@@ -49,7 +49,7 @@ internal class Program
                 Console.WriteLine("Your Sales: ");
                 foreach (var item in s_bl.order.AddProductToOrder(order, productId, countToOrder))//Print the sale list of this product
                 {
-                    Console.WriteLine(item);
+                    Console.WriteLine($"Product Code: {productId}  Quantity: {item.Quantity}  Price: {item.Price}");
                 }
                 
                 Console.WriteLine();
@@ -60,5 +60,11 @@ internal class Program
             int.TryParse(Console.ReadLine(), out x);
             newOrder = x == 1 ? true : false;
         }
+        Console.WriteLine("\n\nYour order:");
+        foreach (var item in order.ProductsInOrder)//Print the products of this order
+        {
+            Console.WriteLine($"Product Name: {item.ProductName}  Quantity: {item.Quantity}  Price: {item.Price}  Total Price: {item.TotalPrice}");
+        }
+        Console.WriteLine("\n\n");
     }
 }

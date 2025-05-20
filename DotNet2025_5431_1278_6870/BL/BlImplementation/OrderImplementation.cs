@@ -38,6 +38,9 @@ namespace BlImplementation
                 SearchSaleForProduct(productInOrder);
                 CalcTotalPriceForProduct(productInOrder);
                 CalcTotalPrice(order);
+                p1 = p1 with { Quantity = p1.Quantity - countInOrder };
+                ProductImplementation p = new ProductImplementation();
+                p.Update(p1.ConvertDoToBo());
                 return productInOrder.SaleInProduct;
             }
             catch (Exception e)
@@ -50,7 +53,7 @@ namespace BlImplementation
         {
             try
             {
-                order.TotalPrice = order.ProductsInOrder.Select(s => s.Price).Sum();
+                order.TotalPrice = order.ProductsInOrder.Select(s => s.TotalPrice).Sum();
             }
             catch (Exception e)
             {

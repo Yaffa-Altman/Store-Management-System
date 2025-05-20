@@ -24,7 +24,7 @@ namespace Dal
                     throw new DalIdAlreadyExistsException("ERROR: The customer ID already exists : Customer");
                 }
                 customers.Add(item);
-                Config.SaveToXml<Customer>("../../xml/sales.xml", customers);
+                Config.SaveToXml<Customer>(FILE_PATH, customers);
             }
             else
             {
@@ -40,7 +40,7 @@ namespace Dal
             Customer? customerToDelete = Read(id);
             List<Customer> customers = Config.LoadFromXml<Customer>(FILE_PATH);
             customers.Remove(customerToDelete);
-            Config.SaveToXml<Customer>("../../xml/sales.xml", customers);
+            Config.SaveToXml<Customer>(FILE_PATH, customers);
             LogManager.writeToLog(MethodBase.GetCurrentMethod()?.DeclaringType?.FullName!, MethodBase.GetCurrentMethod()?.Name!, "End Delete Customer");
         }
 
@@ -87,7 +87,7 @@ namespace Dal
             Delete(item.Id);
             List<Customer> customers = Config.LoadFromXml<Customer>(FILE_PATH);
             customers.Add(item);
-            Config.SaveToXml<Customer>("../../xml/sales.xml", customers);
+            Config.SaveToXml<Customer>(FILE_PATH, customers);
             LogManager.writeToLog(MethodBase.GetCurrentMethod()?.DeclaringType?.FullName!, MethodBase.GetCurrentMethod()?.Name!, "End Update Customer");
         }
     }
